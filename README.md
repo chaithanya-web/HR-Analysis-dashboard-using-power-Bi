@@ -25,15 +25,14 @@ Designed and implemented an interactive HR analytics dashboard to enhance data-d
 Here are some key visuals from the dashboard:
 
 ### Job Headcount by Title
-![Job Headcount](images/job_headcount.png)
+![Job Headcount](![Screenshot 2024-12-25 153302](https://github.com/user-attachments/assets/2853e913-c2c9-4eed-a8c9-a1ecabb0bc35)
+)
 
 ### Gender Breakdown
-![Gender Breakdown](images/gender_breakdown.png)
+![Gender Breakdown](![Screenshot 2024-12-25 153602](https://github.com/user-attachments/assets/022f9344-fc0b-467b-b7b9-9acd3e509b6f))
 
 ### Salary by Qualification
-![Qualification vs Salary](images/qualification_vs_salary.png)
-
-*(Replace the image paths with the actual paths or URLs to your screenshots.)*
+![Qualification vs Salary](![Screenshot 2024-12-25 153646](https://github.com/user-attachments/assets/da2e0e62-2f35-4937-aaba-a7bcec93fd39))
 
 ## Insights
 - **Employee Growth:** Observed a positive growth trend over time.
