@@ -1,6 +1,10 @@
 # HR-Analysis-dashboard-using-power-Bi
 Designed and implemented an interactive HR analytics dashboard to enhance data-driven decision-making for HR operations
-#Focused on these insights and created a visualization
+##Tools Used
+- Power BI
+- Power Query
+- Dax Query
+- Data modeling
 1) How many people are in each job?
    Created a bar chart with row axis as head acount and coloumn axis as job title
 3) Gender break-down of the staff
