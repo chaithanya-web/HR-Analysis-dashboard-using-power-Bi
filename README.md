@@ -34,6 +34,9 @@ Here are some key visuals from the dashboard:
 ### Salary by Qualification
 ![Qualification vs Salary](![Screenshot 2024-12-25 153646](https://github.com/user-attachments/assets/da2e0e62-2f35-4937-aaba-a7bcec93fd39))
 
+###**Overall Dashboard**
+
+![Screenshot 2024-12-25 153804](https://github.com/user-attachments/assets/be18669c-9101-4585-bdbe-da5e6782787f)
 ## Insights
 - **Employee Growth:** Observed a positive growth trend over time.
 - **Pay Analysis:** Identified the top-paying jobs and their respective earners.
@@ -42,4 +45,4 @@ Here are some key visuals from the dashboard:
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HR-Analysis-Dashboard.git
+   git clone (https://github.com/chaithanya-web/HR-Analysis-dashboard-using-power-Bi/)
